@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\PacificEngine.OW_CommonResources</OutputPath>
+  </PropertyGroup>
+</Project>
