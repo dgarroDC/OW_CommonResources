@@ -1,0 +1,11 @@
+C:\Users\nicho\AppData\Roaming\OuterWildsModManager\OWML\Mods\PacificEngine.OW_CommonResources\default-config.json
+C:\Users\nicho\AppData\Roaming\OuterWildsModManager\OWML\Mods\PacificEngine.OW_CommonResources\manifest.json
+C:\Users\nicho\AppData\Roaming\OuterWildsModManager\OWML\Mods\PacificEngine.OW_CommonResources\CommonResources.dll
+C:\Users\nicho\AppData\Roaming\OuterWildsModManager\OWML\Mods\PacificEngine.OW_CommonResources\CommonResources.pdb
+C:\GitHub\OW_CommonResources\CommonResources\obj\Debug\CommonResources.csproj.AssemblyReference.cache
+C:\GitHub\OW_CommonResources\CommonResources\obj\Debug\CommonResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\OW_CommonResources\CommonResources\obj\Debug\CommonResources.AssemblyInfoInputs.cache
+C:\GitHub\OW_CommonResources\CommonResources\obj\Debug\CommonResources.AssemblyInfo.cs
+C:\GitHub\OW_CommonResources\CommonResources\obj\Debug\CommonResources.csproj.CoreCompileInputs.cache
+C:\GitHub\OW_CommonResources\CommonResources\obj\Debug\CommonResources.dll
+C:\GitHub\OW_CommonResources\CommonResources\obj\Debug\CommonResources.pdb
