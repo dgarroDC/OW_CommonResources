@@ -23,7 +23,4 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="OW_CommonResources.csproj.user" />
-  </ItemGroup>
 </Project>
